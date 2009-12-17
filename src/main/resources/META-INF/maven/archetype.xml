@@ -1,0 +1,6 @@
+<archetype>
+  <id>maven-archetype-nar-jni</id>
+  <resources>
+    <resource>src/main/c/NativeExec.c</resource>
+  </resources>
+</archetype>
